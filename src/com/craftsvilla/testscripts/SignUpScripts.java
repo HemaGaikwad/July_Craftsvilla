@@ -1,5 +1,6 @@
 package com.craftsvilla.testscripts;
 
+//This class contains test scripts pertaining to sign up module
 import org.testng.annotations.Test;
 
 import com.craftsvilla.generic.BaseTest;
